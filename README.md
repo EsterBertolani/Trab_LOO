@@ -5,7 +5,9 @@ ao histórico de navegação. Se o usuário desejar voltar, o sistema deve recup
 
 O objetivo deste trabalho é implementar, em Java, uma aplicação que utilize a estrutura de dados Pilha para gerenciar o histórico das páginas visitadas.
 
+
 Regras do Trabalho
+
 • A implementação da pilha deve ser feita usando LinkedList (não usar Stack da
 biblioteca Java).
 
@@ -14,6 +16,7 @@ biblioteca Java).
 • O menu deve permitir que o usuário interaja de forma contínua até escolher sair.
 
 • O código deve estar identado e bem estruturado.
+
 
 2 – Crie uma lista com 20 números inteiros. Crie uma segunda lista, retirando os
 números iguais e ordenando, em seguida, inverta a ordem dos elementos da segunda
