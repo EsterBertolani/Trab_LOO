@@ -2,7 +2,6 @@ package Trab_LOO_Parte2;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.Scanner;
 
@@ -24,7 +23,7 @@ public class ArrayList_Numeros {
         System.out.println(lista1);
 
         for (Integer num : lista1) {
-            if (!(lista1.contains(num))) { // se já tiver o número não adiciona na lista 2
+            if (!(lista2.contains(num))) { // se já tiver o número não adiciona na lista 2
                 lista2.add(num);
             }
         }
